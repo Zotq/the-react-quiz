@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![image](https://github.com/Zotq/the-react-quiz/assets/88341255/22c0c769-c736-4533-aa1e-1f7841fb11bc)
+![image](https://github.com/Zotq/the-react-quiz/assets/88341255/07efebe1-7857-49c8-854b-7a0d77836895)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
